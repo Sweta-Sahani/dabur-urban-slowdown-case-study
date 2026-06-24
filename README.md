@@ -129,6 +129,6 @@ Google Certified Data Analyst | Consulting & Strategy
 
 This is an independent academic project completed as part of my consulting and strategy portfolio. All data is sourced from public filings. This is not investment advice.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](linkedin.com/in/sweta-sahani-686251409)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/sweta-sahani-686251409/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDqvS3GQjRM672SntwIR%2Byw%3D%3D)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/Sweta-Sahani)
 
